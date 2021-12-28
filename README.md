@@ -1,5 +1,16 @@
 # Django-React-Project-Setup
 
+
+## INSTALLATION:
+```python -m pip install drps```
+
+## USAGE:
+in your cmd:
+
+```python -m drps```
+
+##
+
  Starting fullstack project with Django and React can be daunting and can waste your time, especially that you need to download too many modules and packages along creating your project such as drf, react-router-dom....etc, apart from the fact that you might forget to install some neccessary module later on. This module is going create your fullstack project with all neccessary packagees and modules in both Django and React, by asking you to make few inputs, then your project is ready. Also, it will create a virtual environment for you.
    Here are the packages and modules that are going to be installed when starting the project:
    
