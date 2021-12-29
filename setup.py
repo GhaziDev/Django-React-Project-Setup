@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'drps',         # How you named your package folder (MyLib)
   packages = ['drps'],   # Chose the same as "name"
-  version = '1.1',      # Start with a small number and increase it with every change you make
+  version = '1.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = "A module that aim to make it faster to start your fullstack project with few inputs in short time.Also all neccessary modules are supplied within starting the project.",   # Give a short description about your library
   author = 'Ghazi',                   # Type in your name
