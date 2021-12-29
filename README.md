@@ -18,7 +18,7 @@ in your cmd:
     -django
     -django-extensions
     -django-cors-headers
-    -django-rest-framework
+    -django rest framework
     
    ## Javascript (nodejs):
     -react
